@@ -3,8 +3,8 @@ CoSkills is a community-driven platform that allows people to exchange skills wi
 ---### Figma Link  
 [View UI Project on Figma]
 (https://www.figma.com/design/WmoVatuw1BcXOCCzoZKzpJ/final-project?node-id=0-1&t=IHpzyryFljHDykeh-1)
-### 📄 PDF File
-[Click here to open the PDF]([LINK-HERE](https://drive.google.com/drive/folders/1nqG4O-6vu139jH3HdZfjr0avws7E6QuA))
+https://drive.google.com/drive/folders/1nqG4O-6vu139jH3HdZfjr0avws7E6QuA (case study)
+https://www.figma.com/board/fcGMWqlqAdRjo3kpvz7kyu/CoSkills-Roadmap?node-id=0-1&t=mDP4LY8aAX0BBf1Y-1  (ux study)
 
 ***
 # CoSkills
