@@ -181,7 +181,8 @@ The project focuses on:
 - Friend Profile  
 - Blog Page  
 - Dashboard  
-- Dark Mode & Arabic Versions  
+- Dark Mode & Arabic Versions
+- case study sections (cover-logo description-competitors analysis-define phase-IA-behind the scenes)
 
 **Aya Ashraf**
 - Landing Page  
@@ -194,7 +195,8 @@ The project focuses on:
 - Skills Selection  
 - Notifications  
 - Dark Mode  
-- Arabic & Dark Mode for Arabic  
+- Arabic & Dark Mode for Arabic
+- case study (project info-design process-timeline-creative strategy-survey analysis-pain points-design system)
 
 **Haidy Ayman**
 - Login  
@@ -215,16 +217,21 @@ The project focuses on:
 - Header  
 - Visual Identity (Color Palette)  
 - AI Generated Photos  
-- Moodboard  
+- Moodboard
+- project sketches
+- case study mockups
 
 **Menna Azam**
 - Footer  
-- User Profile  
+- User Profile
+- 3 user flow
 
 **Ahmed Wael**
 - Achievements  
 - Friend Chat  
-- Premium Section  
+- Premium Section
+- skill selection
+- dashboard
 
 ---
 
@@ -247,4 +254,5 @@ The project focuses on:
 - Balancing **usability and aesthetics** for a wide target audience.  
 - Handling **time management** with parallel UX & UI tasks.  
 
----
+## Instructor name
+## D.Eman Abdellatif
