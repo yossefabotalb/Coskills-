@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1nqG4O-6vu139jH3HdZfjr0avws7E6QuA
 ### Figjam UX analysis
 https://www.figma.com/board/fcGMWqlqAdRjo3kpvz7kyu/CoSkills-Roadmap?node-id=0-1&t=mDP4LY8aAX0BBf1Y-1  
 ### CoSkills illustrations . ai 
-
+co- skill illustrations.ai
 ***
 # CoSkills
 
