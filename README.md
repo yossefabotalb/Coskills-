@@ -1,12 +1,13 @@
 
 CoSkills is a community-driven platform that allows people to exchange skills with each other. Instead of paying for courses, users can share what they know and learn something new in return. The idea promotes equal access to knowledge, empowers individuals to grow, and builds stronger social connections. It is a purposeful project that supports society by solving the problem of limited access to affordable learning.
 ---### Figma Link  
-
-(https://www.figma.com/design/WmoVatuw1BcXOCCzoZKzpJ/final-project?node-id=0-1&t=IHpzyryFljHDykeh-1) (ui final design - fedalities - components & illustrations)
-
-https://drive.google.com/drive/folders/1nqG4O-6vu139jH3HdZfjr0avws7E6QuA (case study)
-
-https://www.figma.com/board/fcGMWqlqAdRjo3kpvz7kyu/CoSkills-Roadmap?node-id=0-1&t=mDP4LY8aAX0BBf1Y-1  (ux study)
+### (ui final design - fedalities - components & illustrations)
+(https://www.figma.com/design/WmoVatuw1BcXOCCzoZKzpJ/final-project?node-id=0-1&t=IHpzyryFljHDykeh-1) 
+### Case Study
+https://drive.google.com/drive/folders/1nqG4O-6vu139jH3HdZfjr0avws7E6QuA 
+### Figjam UX analysis
+https://www.figma.com/board/fcGMWqlqAdRjo3kpvz7kyu/CoSkills-Roadmap?node-id=0-1&t=mDP4LY8aAX0BBf1Y-1  
+### CoSkills illustrations . ai 
 
 ***
 # CoSkills
