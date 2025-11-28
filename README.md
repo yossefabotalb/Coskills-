@@ -4,11 +4,13 @@ CoSkills is a community-driven platform that allows people to exchange skills wi
 ### (ui final design - fedalities - components & illustrations)
 (https://www.figma.com/design/WmoVatuw1BcXOCCzoZKzpJ/final-project?node-id=0-1&t=IHpzyryFljHDykeh-1) 
 ### Case Study
-https://drive.google.com/drive/folders/1nqG4O-6vu139jH3HdZfjr0avws7E6QuA 
+(https://drive.google.com/drive/folders/1nqG4O-6vu139jH3HdZfjr0avws7E6QuA)
 ### Figjam UX analysis
-https://www.figma.com/board/fcGMWqlqAdRjo3kpvz7kyu/CoSkills-Roadmap?node-id=0-1&t=mDP4LY8aAX0BBf1Y-1  
+(https://www.figma.com/board/fcGMWqlqAdRjo3kpvz7kyu/CoSkills-Roadmap?node-id=0-1&t=mDP4LY8aAX0BBf1Y-1)  
 ### CoSkills illustrations . ai 
 (https://drive.google.com/file/d/1EuqAId-oXJ8tXI98w92P0zDGk3RrR4iU/view?usp=sharing)
+### Behance link
+(https://www.behance.net/gallery/239107251/CoSkills-Collaborative-Learning-Platform)
 ***
 # CoSkills
 
@@ -221,11 +223,13 @@ The project focuses on:
 - Moodboard
 - project sketches
 - case study mockups
+- introductory video
 
 **Menna Azam**
 - Footer  
 - User Profile
 - 3 user flow
+- wireframes sketches (landing page-profile-find swappers-dashboard-signup-comunity-contact us)
 
 **Ahmed Wael**
 - Achievements  
@@ -233,6 +237,10 @@ The project focuses on:
 - Premium Section
 - skill selection
 - dashboard
+- find swappers page
+- side menu
+- projects
+
 
 ---
 
@@ -240,9 +248,8 @@ The project focuses on:
 - **Figma** – UX/UI Design, Prototyping, Collaboration  
 - **Miro** – Ideation, Mind Mapping, and User Flows  
 - **Notion** – Task Management and Documentation  
-- **Adobe Illustrator** – Logo & Icon Design  
-- **Adobe Photoshop** – Image Editing & Mockups  
-- **ChatGPT / AI Tools** – Research & Content Assistance  
+- **Adobe Illustrator** – Logo & Icon Design & illustrations 
+- **Adobe Photoshop** – Image Editing & Mockups    
 - **Google Forms** – Surveys and Data Collection  
 
 ---
