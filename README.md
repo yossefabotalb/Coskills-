@@ -240,7 +240,7 @@ The project focuses on:
 - skill selection
 - side menu
 - projects
-- Dark mode & Prototybe 
+- Dark mode & Prototype 
 
 
 
