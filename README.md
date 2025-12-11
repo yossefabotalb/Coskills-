@@ -240,6 +240,8 @@ The project focuses on:
 - find swappers page
 - side menu
 - projects
+- DARK MODE dashboard
+- DARK MODE find swappers page
 
 
 ---
