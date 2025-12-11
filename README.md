@@ -232,19 +232,15 @@ The project focuses on:
 - wireframes sketches (landing page-profile-find swappers-dashboard-signup-comunity-contact us)
 
 **Ahmed Wael**
+- dashboard
+- find swappers page
 - Achievements  
 - Friend Chat  
 - Premium Section
 - skill selection
-- dashboard
-- find swappers page
 - side menu
 - projects
-- DARK MODE dashboard
-- DARK MODE find swappers page
--  DARK MODE Achievements  
--  DARK MODE Friend Chat  
--  DARK MODE Premium Section
+- Dark mode & Prototybe 
 
 
 
