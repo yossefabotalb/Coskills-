@@ -242,6 +242,10 @@ The project focuses on:
 - projects
 - DARK MODE dashboard
 - DARK MODE find swappers page
+-  DARK MODE Achievements  
+-  DARK MODE Friend Chat  
+-  DARK MODE Premium Section
+
 
 
 ---
